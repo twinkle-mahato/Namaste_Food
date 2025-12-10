@@ -1,0 +1,26 @@
+{
+  "name": "namaste_food",
+  "version": "1.0.0",
+  "description": "Nmaste Food - where flavor meets tradition",
+  "license": "ISC",
+  "author": "Twinkle Mahato",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.17",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "react-router": "^7.10.0",
+    "tailwindcss": "^4.1.17"
+  },
+  "browsersList": [
+    "last 2 Version"
+  ]
+}
